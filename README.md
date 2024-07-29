@@ -11,6 +11,5 @@ ______________________________________________________________
 <pre>
   Step 1:  Download the .zip file.
   Step 2:  Extract the .zip file.
-  Step 3:  Click on the 'index.html' file to 
-           open the site.
+  Step 3:  Click on the 'index.html' file to open the site.
 </pre>
